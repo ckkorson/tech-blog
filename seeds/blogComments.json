@@ -1,0 +1,19 @@
+[
+  {
+    "comment": "Yay!",
+    "user_id": 1,
+    "post_id": 1
+  },
+  {
+    "title": "Javascript",
+    "post": "Love Javascipt",
+    "user_id": 2,
+    "post_id": 2
+  },
+  {
+    "title": "ORM",
+    "post": "Boo!",
+    "user_id": 3,
+    "post_id": 3
+  }
+]

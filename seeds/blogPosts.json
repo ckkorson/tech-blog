@@ -1,0 +1,17 @@
+[
+  {
+    "title": "MVC",
+    "post": "MVC's are cool!",
+    "user_id": 1
+  },
+  {
+    "title": "Javascript",
+    "post": "We use javascript a lot!",
+    "user_id": 2
+  },
+  {
+    "title": "ORM",
+    "post": "ORM's are hard...",
+    "user_id": 3
+  }
+]
